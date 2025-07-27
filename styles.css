@@ -1,4 +1,25 @@
+/* styles.css */
+h1{
+  color: #ffffff;
+}
+.form1{
+   width: 50%; /* Aqui ajustamos el ancho deseado  */
+  margin: 0 auto; /* Aqui podemos centrar de manera horizontal el form */
+}
 
+.form2{
+   width: 50%; /* aqui ajustamos el ancho deseado */
+  margin: 0 auto; /* aqui podemos centrar el formulario de manera horizontal */
+}
+
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #007bff;
+  margin: 0;
+  padding: 20px;
+
+}
 form {
   justify-content: center;
   align-items: center;
