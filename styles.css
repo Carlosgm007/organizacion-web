@@ -1,26 +1,4 @@
-/* styles.css */
-h1{
-  color: #ffffff;
-}
-.form1{
-   width: 50%; /* O el ancho deseado   */
-  margin: 0 auto; /* Centra horizontalmente el form */
-}
 
-.form2{
-   width: 50%; /* O el ancho deseado */
-  margin: 0 auto; /* Centra horizontalmente el form */
-}
-
-body {
-  text-align: center;
-  font-family: Arial, sans-serif;
-  background-color: #007bff;
-  margin: 0;
-  padding: 20px;
-  
-
-}
 form {
   justify-content: center;
   align-items: center;
