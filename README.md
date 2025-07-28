@@ -13,3 +13,6 @@ Este proyecto consiste en el desarrollo de un sitio web para una organización s
 - Notificaciones dinámicas sobre campañas y logros.
 
 ## 🗂️ Estructura del proyecto
+
+## 🗂️ Mensaje de preba
+👋 Hola Carlos
